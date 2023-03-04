@@ -57,7 +57,7 @@ The first line is a integer, the key: number of columns used while encryption
 The second line consists of the cipher text
 
 
-##Straddle Checkerboard Algorithm
+## Straddle Checkerboard Algorithm
 
 Straddle Checkerboard Algorithm without the addition of a secret key number at the end.
 Given the key permutation of the alphabet and two digits, decrypt the given cipher text and return the plain text form.
